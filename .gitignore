@@ -1,0 +1,5 @@
+# Gitignore
+
+# Ignore .evn variables for Alchemy API
+.env
+
