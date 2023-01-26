@@ -16,7 +16,7 @@ const the_attacker = "0xe4a4df7e1689589efb06ec8c7c601b1cb193c5b3";
 
 const iagon_address = "0x40EB746DEE876aC1E78697b7Ca85142D178A1Fc8";
 
-/*
+
 describe("Nomad", function () {
   it("Should steal nomad bridges token", async function () {
 
@@ -50,7 +50,7 @@ describe("Nomad", function () {
   });
 
 });
-*/
+
 
 describe("Nomad", function () {
   it("Should steal nomad bridges token 2", async function () {

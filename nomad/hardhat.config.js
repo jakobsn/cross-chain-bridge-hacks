@@ -1,3 +1,5 @@
+//Nomad
+
 require("@nomicfoundation/hardhat-toolbox");
 require('dotenv').config()
 
@@ -8,8 +10,8 @@ module.exports = {
     hardhat: {
       forking: {
         url: process.env.ALCHEMY_API_KEY,
-        blockNumber: 16484809
-        //blockNumber: 15259103 //WBTC
+        //blockNumber: 16484809 Run this blockheigt to fail the tests.
+        blockNumber: 15259103 //
       }
     }
   }
