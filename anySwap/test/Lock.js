@@ -1,3 +1,7 @@
+// Script created based on immunefi's dark forest series episode 0.
+// Last retreived 26. Jan
+// https://www.youtube.com/watch?v=aO4C-g4Ilkg&list=PL52dAIaZ3XKDNb0VC3Ah6kgdOb4sNdhp9&index=1
+
 const {
   time,
   loadFixture,
